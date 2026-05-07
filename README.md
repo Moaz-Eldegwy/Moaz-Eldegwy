@@ -2,12 +2,12 @@
 
 **AI Engineer | LLMs • RAG • Agentic Workflows • SLMs**
 
-[cite_start]I am an AI Engineer and a recent dual-degree graduate in Computer Science and Artificial Intelligence[cite: 2, 6]. I focus on solving complex problems by building production-ready Generative AI systems, focusing heavily on open-weight models and agentic architecture. 
+I am an AI Engineer and a recent dual-degree graduate in Computer Science and Artificial Intelligence. I focus on solving complex problems by building production-ready Generative AI systems, focusing heavily on open-weight models and agentic architecture. 
 
 ### 🚀 My Journey
-My technical path has been unconventional and deeply hands-on. I started in 2019 in digital marketing and SEO, which naturally sparked my interest in software development. [cite_start]By 2021, I was provisioning and administering Linux web servers and building scalable WordPress platforms[cite: 23, 25]. [cite_start]Over five years of freelancing, I delivered 65+ custom web development and AI-integrated automation projects[cite: 22].
+My technical path has been unconventional and deeply hands-on. I started in 2019 in digital marketing and SEO, which naturally sparked my interest in software development. By 2021, I was provisioning and administering Linux web servers and building scalable WordPress platforms. Over five years of freelancing, I delivered 65+ custom web development and AI-integrated automation projects.
 
-As my work progressed, I began weaving Generative AI into my web services. By 2024, I shifted my focus entirely to deep learning. [cite_start]Today, I work as an Undergraduate Researcher in applied Generative AI[cite: 14, 19]. [cite_start]My core focus is on the internal mechanics of language models, specifically fine-tuning, Retrieval-Augmented Generation (RAG), and multi-agent systems [cite: 20]—with a special emphasis on enabling and optimizing Small Language Models (SLMs) for efficient, real-world deployment.
+As my work progressed, I began weaving Generative AI into my web services. By 2024, I shifted my focus entirely to deep learning. Today, I work as an Undergraduate Researcher in applied Generative AI. My core focus is on the internal mechanics of language models, specifically fine-tuning, Retrieval-Augmented Generation (RAG), and multi-agent systems—with a special emphasis on enabling and optimizing Small Language Models (SLMs) for efficient, real-world deployment.
 
 ### 🛠️ Tech Stack & Tools
 
@@ -36,7 +36,7 @@ As my work progressed, I began weaving Generative AI into my web services. By 20
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### 🔭 What I'm Currently Working On
-- [cite_start]Conducting self-directed research under faculty mentorship in applied Generative AI[cite: 19].
+- Conducting self-directed research under faculty mentorship in applied Generative AI.
 - Architecting robust multi-agentic workflows for automated, complex problem-solving.
 - Experimenting with fine-tuning strategies for Small Language Models using Unsloth and Hugging Face.
 - Pushing the boundaries of local inference and performance optimization using Ollama and Llama.cpp.
