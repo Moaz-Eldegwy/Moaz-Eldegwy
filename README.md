@@ -1,6 +1,6 @@
 # Hi there, I'm Moaz 👋
 
-**AI Engineer | LLMs • RAG • Agentic Workflows • SLMs**
+**AI Engineer | LLMs • Fine-tuning • RAG • Agentic Workflows • SLMs**
 
 I am an AI Engineer and a recent dual-degree graduate in Computer Science and Artificial Intelligence. I focus on solving complex problems by building production-ready Generative AI systems, focusing heavily on open-weight models and agentic architecture. 
 
