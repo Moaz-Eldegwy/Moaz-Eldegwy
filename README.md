@@ -1,13 +1,34 @@
 # Hi there, I'm Moaz 👋
 
-**AI Engineer | LLMs • Fine-tuning • RAG • Agentic Workflows • SLMs**
+**AI Engineer | LLMs • Fine-tuning • RL • RAG • Agentic Systems**
 
-I am an AI Engineer and a recent dual-degree graduate in Computer Science and Artificial Intelligence. I focus on solving complex problems by building production-ready Generative AI systems, focusing heavily on open-weight models and agentic architecture. 
+I am an AI Engineer focused on large language models, fine-tuning, reinforcement learning, retrieval-augmented generation (RAG), and agentic AI systems. I recently graduated with a B.Sc. in Information Technology and Computing (Artificial Intelligence) in February 2026.
+
+---
 
 ### 🚀 My Journey
-My technical path has been unconventional and deeply hands-on. I started in 2019 in digital marketing and SEO, which naturally sparked my interest in software development. By 2021, I was provisioning and administering Linux web servers and building scalable WordPress platforms. Over five years of freelancing, I delivered 65+ custom web development and AI-integrated automation projects.
 
-As my work progressed, I began weaving Generative AI into my web services. By 2024, I shifted my focus entirely to deep learning. Today, I work as an Undergraduate Researcher in applied Generative AI. My core focus is on the internal mechanics of language models, specifically fine-tuning, Retrieval-Augmented Generation (RAG), and multi-agent systems—with a special emphasis on enabling and optimizing Small Language Models (SLMs) for efficient, real-world deployment.
+I started freelancing in web development at the age of 16 during the 2020 COVID lockdowns. Throughout university, I continued building software products for clients, delivering 65+ software projects across different domains before transitioning fully into AI.
+
+Over time, my work evolved from traditional software engineering into applied Generative AI. Today, I focus on training and adapting open-weight LLMs, building multi-agent systems, designing RAG pipelines, and deploying end-to-end AI systems on Linux-based infrastructure.
+
+My freelance engineering background gave me strong, practical experience in production systems, deployment workflows, and real-world client delivery at scale.
+
+---
+
+### 🎯 Focus Areas
+
+- Large Language Models (LLMs)
+- Fine-tuning & Reinforcement Learning
+- Retrieval-Augmented Generation (RAG)
+- Agentic AI Systems & Multi-Agent Architectures
+- End-to-end AI system deployment (Linux, production environments)
+
+---
+
+### 💼 Open To
+
+AI Engineering roles • LLM Systems • Applied Generative AI • Research & Development
 
 ### 🛠️ Tech Stack & Tools
 
@@ -15,9 +36,6 @@ As my work progressed, I began weaving Generative AI into my web services. By 20
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 **AI & Machine Learning:**
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
